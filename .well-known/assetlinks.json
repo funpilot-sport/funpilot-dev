@@ -5,7 +5,7 @@
       "namespace": "android_app",
       "package_name": "com.konfetti.funpilot.dev",
       "sha256_cert_fingerprints": [
-        "YOUR_DEBUG_KEY_SHA256_FINGERPRINT_HERE"
+        "EEF254AC8CEBE2111A5E1FF87D9B8DBE43A4654D67615DDA1BE3EB4FF1632DC7"
       ]
     }
   }
