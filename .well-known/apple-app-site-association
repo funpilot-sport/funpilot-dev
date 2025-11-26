@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.konfetti.funpilot.dev",
+        "appID": "QAB2V7ZC9Q.com.konfetti.funpilot.ios.dev",
         "paths": [ "/joinevent", "/joinevent/*" ]
       }
     ]
