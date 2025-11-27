@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "QAB2V7ZC9Q.com.konfetti.funpilot.ios.dev",
-        "paths": [ "/joinevent", "/joinevent/*" ]
+        "paths": [ "/joinevent", "/joinevent/*", "/addfriend", "/addfriend/*" ]
       }
     ]
   }
